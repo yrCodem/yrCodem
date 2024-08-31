@@ -5,7 +5,7 @@
 
 <div align="center">
 
-🔭 I’m currently a **Student**currently pursuing my BTECH Degree in field of Computer Science and Enginnering (CORE)
+🔭 I’m currently a **Student** currently pursuing my BTECH Degree in field of Computer Science and Enginnering (CORE)
 
 🌱 I’m passionate about Web Development and currently learning and polishing skills **React, NodeJS, NextJS, React Native**
 
@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/badge/Github-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
     <a href="https://discord.com/channels/@me/519782251769233408" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 <hr/>
@@ -38,6 +38,7 @@
 
 <br/>
 <div align="center">
+
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/poseidon06/poseidon06/output/github-contribution-grid-snake.svg" />
