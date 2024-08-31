@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/badge/Github-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
     <a href="https://discord.com/channels/@me/519782251769233408" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
 </div>
 <hr/>
