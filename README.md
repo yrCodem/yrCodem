@@ -4,8 +4,11 @@
 
 <div align="center">
 🔭 I’m currently a **Student** currently pursuing my BTECH Degree in field of Computer Science and Enginnering (CORE)
+
 🌱 I’m passionate about Web Development and currently learning and polishing skills **React, NodeJS, NextJS, React Native**
-💬 Ask me about anything or raise issue [here](https://github.com/poseidon06/poseidon06/issues)**
+
+💬 Ask me about anything or raise issue [here](https://github.com/poseidon06/poseidon06/issues)
+
 ⚡ Currently working on a **Startup**
 
 </div>
