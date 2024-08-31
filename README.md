@@ -4,7 +4,8 @@
 
 
 <div align="center">
-🔭 I’m currently a **Student** currently pursuing my BTECH Degree in field of Computer Science and Enginnering (CORE)
+
+🔭 I’m currently a **Student**currently pursuing my BTECH Degree in field of Computer Science and Enginnering (CORE)
 
 🌱 I’m passionate about Web Development and currently learning and polishing skills **React, NodeJS, NextJS, React Native**
 
