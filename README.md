@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,python,javascript,typescript,nextjs,perl" /><br>
 </div>
 
-<br/>
+<!-- <br/>
 <div align="center">
 
   <h2>🐍 My Contributions 🐍</h2>
@@ -44,7 +44,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/poseidon06/poseidon06/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
-</div>
+</div> -->
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
