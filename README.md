@@ -9,7 +9,7 @@
 
 🌱 I’m passionate about Web Development and currently learning and polishing skills **React, NodeJS, NextJS, React Native**
 
-💬 Ask me about anything or raise issue [here](https://github.com/poseidon06/poseidon06/issues)
+💬 Ask me about anything or raise issue [here](https://github.com/yrCodem/yrCodem/issues)
 
 ⚡ Currently working on a **Startup**
 
@@ -49,9 +49,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=poseidon06&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=poseidon06&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poseidon06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yrCodem&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=yrCodem&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yrCodem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=poseidon06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
