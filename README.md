@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=poseidon06.poseidon06&left_color=chocolate&left_text=Profile%20Visiitors"  />
 
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashrawalkarg)
+ <img align = right src = [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashrawalkarg) />
 
 ![Header](./Images/github-header-image.png)
 
@@ -137,6 +137,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yrCodem&icon=0&color=0)](https://visitcount.itsvg.in) --> -->
+[![](https://visitcount.itsvg.in/api?id=yrCodem&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
