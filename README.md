@@ -100,10 +100,10 @@
 </div>
 
 ### -->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+<div align = "centre">
+    ### ✍️ Random Dev Quote
+    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+</div>
 ###
 
 <div align="center">
