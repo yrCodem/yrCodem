@@ -100,7 +100,7 @@
 </div>
 
 ### -->
-<div align = "centre">
+<div align = center>
 
     ### ✍️ Random Dev Quote
 
