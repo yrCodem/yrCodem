@@ -107,7 +107,6 @@
     ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 </div>
-###
 
 <div align="center">
   <hr/>
