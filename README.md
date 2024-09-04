@@ -13,7 +13,7 @@
 
 💬 Ask me about anything or raise issue [here](https://github.com/yrCodem/yrCodem/issues)
 
-⚡ Currently working on a **Startup**
+⚡ Currently working on a **Startup**.
 
 </div>
 <div align="center">
