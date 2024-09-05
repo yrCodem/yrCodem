@@ -9,7 +9,7 @@
 
 🔭 I’m currently a **Student** currently pursuing my BTECH Degree in field of Computer Science and Enginnering (CORE)
 
-🌱 I’m passionate about Web Development and currently learning and polishing skills **React, NodeJS, NextJS, React Native**
+🌱 I’m passionate about Web Development and currently learning and polishing skills **React, NodeJS, NextJS, React Native**.
 
 💬 Ask me about anything or raise issue [here](https://github.com/yrCodem/yrCodem/issues)
 
