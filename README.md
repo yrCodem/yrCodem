@@ -52,107 +52,117 @@
 </p>
 
 <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Digital+Products;Exploring+AI+Integration" />
+</p>
+
 <br/>
 
 <h3 align="center">⚒️ Core Tech Stack</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-      <br>React
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
-      <br>TypeScript
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
-      <br>Node.js
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-       <img src="./anim/html.gif" width="65" height="65" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-       <img src="./anim/css.gif" width="65" height="65" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="./anim/expressjs.gif" width="65" height="65" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
-      <br>Tailwind
-    </td>
-  </tr>
+<!-- Row 1 -->
+<p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+</p>
 
-  <tr>
-    <td align="center" width="96">
-      <img src="./anim/git.gif" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="./anim/mongodb.gif" width="65" height="65" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-       <img src="./anim/npm.gif" width="65" height="65" />
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-      <img src="./anim/postman.gif" width="65" height="65" />
-      <br>Postman
-    </td>
-  </tr>
+<p>
+  React
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Next.js
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  JavaScript
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  TypeScript
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  Node.js
+</p>
 
-  <tr>
-    <td align="center" width="96">
-       <img src="./anim/aws.gif" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-       <img src="./anim/docker.gif" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-       <img src="./anim/elixir.gif" width="65" height="65" />
-      <br>Elixir
-    </td>
-    <td align="center" width="96">
-       <img src="./anim/perl.gif" width="65" height="65" />
-      <br>Perl
-    </td>
-    <td align="center" width="96">
-       <img src="./anim/pug.gif" width="65" height="65" />
-      <br>Pug
-    </td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-  </tr>
-</table>
+<!-- Row 2 -->
+<p>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/html.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/css.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/expressjs.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+</p>
 
+<p>
+  Python
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  HTML
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  CSS
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Express
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Tailwind
+</p>
+
+<!-- Row 3 -->
+<p>
+  <img src="./anim/git.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/mongodb.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/npm.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/postman.gif" width="65" height="65" />
+</p>
+
+<p>
+  Git
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  GitHub
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  MongoDB
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  NPM
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Postman
+</p>
+
+<!-- Row 4 -->
+<p>
+  <img src="./anim/aws.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/docker.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/elixir.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/perl.gif" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="./anim/pug.gif" width="65" height="65" />
+</p>
+
+<p>
+  AWS
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Docker
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Elixir
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Perl
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Pug
+</p>
+
+</div>
 
 
 <!-- <div align="center">
