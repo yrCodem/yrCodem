@@ -190,20 +190,18 @@
 <hr/>
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<br>
-
 <div align="center">
 
   <img
-    width="420"
+    width="400"
     src="https://github-stats-extended.vercel.app/api?username=yrCodem&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=react&border_radius=10"
     alt="Yash's GitHub Stats"
   />
 
   <img
-    width="390"
+    width="400"
     src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yrCodem&theme=react&border_radius=10"
-    alt="GitHub Streak"
+    alt="GitHub Streak Stats"
   />
 
 </div>
@@ -213,13 +211,6 @@
 
 </div> -->
 
-###
-###
-
-
-###
-
-### -->
 <div align = center>
 
  ✍️ Dev Quote of the Day!
