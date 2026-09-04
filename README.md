@@ -52,7 +52,9 @@
 
 <!-- Github Snapshot -->
 <p align="center">
-  <img src="https://lecoq.io" alt="yrcodem GitHub Stats" />
+  <img src="https://shields.io" alt="Followers" />
+  <img src="https://shields.io" alt="Stars" />
+  <img src="https://shields.io" alt="Issues" />
 </p>
 
 
