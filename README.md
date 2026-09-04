@@ -5,17 +5,26 @@
 ![Header](./Images/hero-banner.svg)
 
 
+<!-- Description -->
+```html
 <div align="center">
 
-🔭 I’m currently a **Student** currently pursuing my BTECH Degree in field of Computer Science and Enginnering (CORE)
+🔭 Currently pursuing a **B.Tech in Computer Science & Engineering (Core)** and building my path as a **Full-Stack Software Engineer**.
 
-🌱 I’m passionate about Web Development and currently learning and polishing skills **React, NodeJS, NextJS, React Native**.
+🌱 Passionate about creating scalable web applications and solving real-world problems through technology. Currently sharpening my skills in **React, Node.js, Next.js, and React Native**.
 
-💬 Ask me about anything or raise issue [here](https://github.com/yrCodem/yrCodem/issues)
+💡 Exploring the intersection of **Full-Stack Development and AI** to build smarter and more impactful digital products.
 
-⚡ Currently working on a **Startup**.
+⚡ Currently building and working on a **Startup**, turning ideas into real-world solutions.
+
+💬 Feel free to connect, collaborate, or ask me anything — you can also raise an issue [here](https://github.com/yrCodem/yrCodem/issues).
 
 </div>
+```
+
+
+
+
 <!-- <div align="center">
   <a href="mailto:yashrawalkar04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
