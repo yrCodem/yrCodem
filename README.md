@@ -52,7 +52,7 @@
 
 <!-- Github Snapshot -->
 <p align="center">
-  <img src="https://vercel.app" alt="yrcodem GitHub Stats" />
+  <img src="https://lecoq.io" alt="yrcodem GitHub Stats" />
 </p>
 
 
