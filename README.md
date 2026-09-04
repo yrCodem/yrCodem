@@ -6,21 +6,7 @@
 
 
 <!-- Description -->
-```html
-<div align="center">
-
-🔭 Currently pursuing a **B.Tech in Computer Science & Engineering (Core)** and building my path as a **Full-Stack Software Engineer**.
-
-🌱 Passionate about creating scalable web applications and solving real-world problems through technology. Currently sharpening my skills in **React, Node.js, Next.js, and React Native**.
-
-💡 Exploring the intersection of **Full-Stack Development and AI** to build smarter and more impactful digital products.
-
-⚡ Currently building and working on a **Startup**, turning ideas into real-world solutions.
-
-💬 Feel free to connect, collaborate, or ask me anything — you can also raise an issue [here](https://github.com/yrCodem/yrCodem/issues).
-
-</div>
-```
+<div align="center"> 🔭 Currently pursuing a **B.Tech in Computer Science & Engineering (Core)** and building my path as a **Full-Stack Software Engineer**. 🌱 Passionate about creating scalable web applications and solving real-world problems through technology. Currently sharpening my skills in **React, Node.js, Next.js, and React Native**. 💡 Exploring the intersection of **Full-Stack Development and AI** to build smarter and more impactful digital products. ⚡ Currently building and working on a **Startup**, turning ideas into real-world solutions. 💬 Feel free to connect, collaborate, or ask me anything — you can also raise an issue [here](https://github.com/yrCodem/yrCodem/issues). </div>
 
 
 
