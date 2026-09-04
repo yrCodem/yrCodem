@@ -129,7 +129,7 @@
 
   <tr>
     <td align="center" width="96">
-       <img src="./anim/aws.mp4" width="65" height="65" />
+       <img src="./anim/aws.gif" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
