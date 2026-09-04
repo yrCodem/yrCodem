@@ -75,8 +75,8 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" />
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
       <br>Node.js
     </td>
   </tr>
@@ -95,8 +95,8 @@
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="65" height="65" />
-      <br>Bootstrap
+      <img src="./anim/expressjs.gif" width="65" height="65" />
+      <br>Express
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="65" height="65" />
@@ -106,7 +106,7 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" />
+      <img src="./anim/git.gif" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -114,16 +114,16 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/figma-icon.svg" width="65" height="65" />
-      <br>Figma
+      <img src="./anim/mongodb.gif" width="65" height="65" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/npm-icon.svg" width="65" height="65" />
       <br>NPM
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" />
-      <br>VS Code
+      <img src="./anim/postman.gif" width="65" height="65" />
+      <br>Postman
     </td>
   </tr>
 
