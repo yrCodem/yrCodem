@@ -63,8 +63,8 @@
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="65" height="65" />
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
       <br>Next.js
     </td>
     <td align="center" width="96">
@@ -87,11 +87,11 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" />
+       <img src="./anim/html.gif" width="65" height="65" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" height="65" />
+       <img src="./anim/css.gif" width="65" height="65" />
       <br>CSS
     </td>
     <td align="center" width="96">
@@ -118,7 +118,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/npm-icon.svg" width="65" height="65" />
+       <img src="./anim/npm.gif" width="65" height="65" />
       <br>NPM
     </td>
     <td align="center" width="96">
@@ -129,15 +129,15 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/elixir-icon.svg" width="65" height="65" />
+       <img src="./anim/elixir.gif" width="65" height="65" />
       <br>Elixir
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/perl-icon.svg" width="65" height="65" />
+       <img src="./anim/perl.gif" width="65" height="65" />
       <br>Perl
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/pug-icon.svg" width="65" height="65" />
+       <img src="./anim/pug.gif" width="65" height="65" />
       <br>Pug
     </td>
     <td align="center" width="96"></td>
