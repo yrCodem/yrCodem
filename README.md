@@ -64,7 +64,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="65" height="65" />
       <br>Next.js
     </td>
     <td align="center" width="96">
@@ -76,7 +76,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" />
       <br>Node.js
     </td>
   </tr>
@@ -87,67 +87,65 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" height="65" />
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="65" height="65" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="65" height="65" />
       <br>Tailwind
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/figma-icon.svg" width="65" height="65" />
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/npm-icon.svg" width="65" height="65" />
       <br>NPM
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" />
       <br>VS Code
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=elixir" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/elixir-icon.svg" width="65" height="65" />
       <br>Elixir
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=perl" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/perl-icon.svg" width="65" height="65" />
       <br>Perl
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pug" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/pug-icon.svg" width="65" height="65" />
       <br>Pug
     </td>
-    <td align="center" width="96">
-      <!-- Empty space for alignment -->
-    </td>
-    <td align="center" width="96">
-      <!-- Empty space for alignment -->
-    </td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
   </tr>
 </table>
+
+
 
 <!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,npm,elixir" /><br>
