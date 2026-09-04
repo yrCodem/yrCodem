@@ -99,7 +99,7 @@
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
       <br>Tailwind
     </td>
   </tr>
@@ -128,6 +128,14 @@
   </tr>
 
   <tr>
+    <td align="center" width="96">
+       <img src="./anim/aws.mp4" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+       <img src="./anim/docker.gif" width="65" height="65" />
+      <br>Docker
+    </td>
     <td align="center" width="96">
        <img src="./anim/elixir.gif" width="65" height="65" />
       <br>Elixir
