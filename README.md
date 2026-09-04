@@ -52,9 +52,7 @@
 
 <!-- Github Snapshot -->
 <p align="center">
-  <img src="https://shields.io" alt="Followers" />
-  <img src="https://shields.io" alt="Stars" />
-  <img src="https://shields.io" alt="Issues" />
+  <img src="https://weserv.nl" alt="yrcodem GitHub Stats" />
 </p>
 
 
