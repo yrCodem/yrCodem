@@ -54,14 +54,109 @@
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
+<h3 align="center">⚒️ Core Tech Stack</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+      <br>Node.js
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
+      <br>Tailwind
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=npm" width="65" height="65" />
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" />
+      <br>VS Code
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=elixir" width="65" height="65" />
+      <br>Elixir
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=perl" width="65" height="65" />
+      <br>Perl
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pug" width="65" height="65" />
+      <br>Pug
+    </td>
+    <td align="center" width="96">
+      <!-- Empty space for alignment -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty space for alignment -->
+    </td>
+  </tr>
+</table>
+
 <!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,npm,elixir" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,python,javascript,typescript,nextjs,perl,pug" /><br>
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Digital+Products;Exploring+AI+Integration" />
-</p>
+</p> -->
 
 <!-- Github Snapshot -->
 <p align="center">
