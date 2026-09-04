@@ -56,8 +56,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Digital+Products;Exploring+AI+Integration" />
 </p>
 
-<br/>
-
 <h3 align="center">⚒️ Core Tech Stack</h3>
 
 <div align="center">
@@ -174,10 +172,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Digital+Products;Exploring+AI+Integration" />
 </p> -->
 
-<!-- Github Snapshot -->
+<!-- Github Snapshot
 <p align="center">
   <img src="https://weserv.nl" alt="yrcodem GitHub Stats" />
-</p>
+</p> -->
 
 
 <!-- <br/>
