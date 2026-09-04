@@ -50,6 +50,11 @@
     <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,python,javascript,typescript,nextjs,perl,pug" /><br>
 </div>
 
+<!-- Github Snapshot -->
+![](https://raw.githubusercontent.com/yrcodem/github-stats-transparent/output/generated/overview.svg)
+
+
+
 <!-- <br/>
 <div align="center">
 
