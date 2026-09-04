@@ -51,8 +51,9 @@
 </div>
 
 <!-- Github Snapshot -->
-![](https://raw.githubusercontent.com/yrcodem/github-stats-transparent/output/generated/overview.svg)
-
+<p align="center">
+  <img src="https://vercel.app" alt="yrcodem GitHub Stats" />
+</p>
 
 
 <!-- <br/>
