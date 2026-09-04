@@ -59,11 +59,9 @@
     <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,python,javascript,typescript,nextjs,perl,pug" /><br>
 </div> -->
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,mongodb,postgres,docker,git,github" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Digital+Products;Exploring+AI+Integration" />
+</p>
 
 <!-- Github Snapshot -->
 <p align="center">
