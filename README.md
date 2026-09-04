@@ -16,7 +16,7 @@
 ⚡ Currently working on a **Startup**.
 
 </div>
-<div align="center">
+<!-- <div align="center">
   <a href="mailto:yashrawalkar04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -29,7 +29,19 @@
     <a href="https://discord.com/channels/@me/519782251769233408" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
-</div>
+</div> -->
+
+
+<!-- Contact Section -->
+<p align="center">
+  <a href="https://v4.elejeune.me"><img alt="Portfolio" src="https://img.shields.io/badge/v4.elejeune.me-0d0e12?style=flat-square&logo=googlechrome&logoColor=8b95f0" /></a>
+  <a href="https://github.com/yrCodem"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=8b95f0" /></a>
+  <a href="https://www.linkedin.com/in/yash-rawalkar-233441289/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=linkedin&logoColor=8b95f0" /></a>
+  <a href="https://www.researchgate.net/profile/Erwin-Lejeune"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-0d0e12?style=flat-square&logo=researchgate&logoColor=8b95f0" /></a>
+  <a href="https://open.spotify.com/user/11147618695"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-0d0e12?style=flat-square&logo=spotify&logoColor=8b95f0" /></a>
+  <a href="mailto:yashrawalkar04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=8b95f0" /></a>
+</p>
+
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
