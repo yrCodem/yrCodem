@@ -142,16 +142,8 @@ Feel free to connect, collaborate, or ask me anything — you can also raise an 
 
 </div>
 
-<!-- <br/>
-<div align="center">
-
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/poseidon06/poseidon06/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
-</div> -->
 <hr/>
+
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align="center">
 
