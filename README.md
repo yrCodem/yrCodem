@@ -21,26 +21,6 @@
 
 </div>
 
-
-
-
-
-<!-- <div align="center">
-  <a href="mailto:yashrawalkar04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-rawalkar-233441289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/poseidon06" target="_blank">
-     <img src="https://img.shields.io/badge/Github-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-    <a href="https://discord.com/channels/@me/519782251769233408" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
-  </a>
-</div> -->
-
-
 <!-- Contact Section -->
 <p align="center">
   <!-- <a href="https://v4.elejeune.me"><img alt="Portfolio" src="https://img.shields.io/badge/v4.elejeune.me-0d0e12?style=flat-square&logo=googlechrome&logoColor=8b95f0" /></a> -->
