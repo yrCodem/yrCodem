@@ -44,7 +44,7 @@ Feel free to connect, collaborate, or ask me anything — you can also raise an 
 <p>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" />
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
   &nbsp;&nbsp;
