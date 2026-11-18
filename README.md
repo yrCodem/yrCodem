@@ -75,7 +75,7 @@ Feel free to connect, collaborate, or ask me anything — you can also raise an 
   &nbsp;&nbsp;
   <img src="./anim/expressjs.gif" width="65" height="65" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
 </p>
 
 <p>
